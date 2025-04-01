@@ -1,0 +1,101 @@
+Train Epoch 1/50: 100% 2/2 [00:00<00:00,  2.87it/s]
+Epoch 1, Losses: {'contrastive': 5.60529899597168, 'adversarial': -0.0003780678962357342, 'similarity': 0.00036182587791699916, 'total': 5.605334997177124}
+Train Epoch 2/50: 100% 2/2 [00:00<00:00,  2.75it/s]
+Epoch 2, Losses: {'contrastive': 5.601036787033081, 'adversarial': -0.000496499880682677, 'similarity': 0.0003700221859617159, 'total': 5.601073741912842}
+Train Epoch 3/50: 100% 2/2 [00:00<00:00,  2.49it/s]
+Epoch 3, Losses: {'contrastive': 5.684419393539429, 'adversarial': -0.0005045207508374006, 'similarity': 0.0005598133720923215, 'total': 5.684475421905518}
+Train Epoch 4/50: 100% 2/2 [00:00<00:00,  2.38it/s]
+Epoch 4, Losses: {'contrastive': 5.761998176574707, 'adversarial': -0.0005649151280522346, 'similarity': 0.00047480651119258255, 'total': 5.762045621871948}
+Train Epoch 5/50: 100% 2/2 [00:00<00:00,  2.45it/s]
+Epoch 5, Losses: {'contrastive': 5.782212257385254, 'adversarial': -0.00035438551276456565, 'similarity': 0.0003750735486391932, 'total': 5.782249689102173}
+Train Epoch 6/50: 100% 2/2 [00:00<00:00,  2.52it/s]
+Epoch 6, Losses: {'contrastive': 5.93307638168335, 'adversarial': -0.00046842984738759696, 'similarity': 0.0004702355363406241, 'total': 5.933123350143433}
+Train Epoch 7/50: 100% 2/2 [00:00<00:00,  2.47it/s]
+Epoch 7, Losses: {'contrastive': 5.924044132232666, 'adversarial': -0.0004407513333717361, 'similarity': 0.0005972431827103719, 'total': 5.9241039752960205}
+Train Epoch 8/50: 100% 2/2 [00:00<00:00,  2.43it/s]
+Epoch 8, Losses: {'contrastive': 6.0389564037323, 'adversarial': -0.00047894008457660675, 'similarity': 0.00042598359868861735, 'total': 6.038999080657959}
+Train Epoch 9/50: 100% 2/2 [00:00<00:00,  2.57it/s]
+Epoch 9, Losses: {'contrastive': 6.0277345180511475, 'adversarial': -0.0004313552926760167, 'similarity': 0.0006277756183408201, 'total': 6.027797222137451}
+Train Epoch 10/50: 100% 2/2 [00:00<00:00,  2.68it/s]
+Epoch 10, Losses: {'contrastive': 6.116659641265869, 'adversarial': -0.0005571308138314635, 'similarity': 0.0005666428769472986, 'total': 6.116716384887695}
+Train Epoch 11/50: 100% 2/2 [00:00<00:00,  2.81it/s]
+Epoch 11, Losses: {'contrastive': 6.031069040298462, 'adversarial': -0.000510639714775607, 'similarity': 0.0004884048394160345, 'total': 6.031117916107178}
+Train Epoch 12/50: 100% 2/2 [00:00<00:00,  2.80it/s]
+Epoch 12, Losses: {'contrastive': 6.1403045654296875, 'adversarial': -0.0006326343864202499, 'similarity': 0.0007190594624262303, 'total': 6.140376329421997}
+Train Epoch 13/50: 100% 2/2 [00:00<00:00,  2.79it/s]
+Epoch 13, Losses: {'contrastive': 6.115691184997559, 'adversarial': -0.00042848382145166397, 'similarity': 0.0004143869737163186, 'total': 6.115732431411743}
+Train Epoch 14/50: 100% 2/2 [00:00<00:00,  2.85it/s]
+Epoch 14, Losses: {'contrastive': 6.203850030899048, 'adversarial': -0.0005247208173386753, 'similarity': 0.0005747639224864542, 'total': 6.203907489776611}
+Train Epoch 15/50: 100% 2/2 [00:00<00:00,  2.83it/s]
+Epoch 15, Losses: {'contrastive': 6.241413593292236, 'adversarial': -0.0004217136593069881, 'similarity': 0.0005149868666194379, 'total': 6.241465091705322}
+Train Epoch 16/50: 100% 2/2 [00:00<00:00,  2.44it/s]
+Epoch 16, Losses: {'contrastive': 6.234710454940796, 'adversarial': -0.0005818036152049899, 'similarity': 0.0004986616841051728, 'total': 6.234760284423828}
+Train Epoch 17/50: 100% 2/2 [00:00<00:00,  2.41it/s]
+Epoch 17, Losses: {'contrastive': 6.1859776973724365, 'adversarial': -0.0003992274578195065, 'similarity': 0.00045043122372590005, 'total': 6.186022758483887}
+Train Epoch 18/50: 100% 2/2 [00:00<00:00,  2.64it/s]
+Epoch 18, Losses: {'contrastive': 6.175085067749023, 'adversarial': -0.00040273615741170943, 'similarity': 0.0006079939776100218, 'total': 6.175145864486694}
+Train Epoch 19/50: 100% 2/2 [00:00<00:00,  2.49it/s]
+Epoch 19, Losses: {'contrastive': 6.356549501419067, 'adversarial': -0.0005911065090913326, 'similarity': 0.000421474949689582, 'total': 6.356591701507568}
+Train Epoch 20/50: 100% 2/2 [00:00<00:00,  2.46it/s]
+Epoch 20, Losses: {'contrastive': 6.469126462936401, 'adversarial': -0.0005919169343542308, 'similarity': 0.0005179637519177049, 'total': 6.469178199768066}
+Train Epoch 21/50: 100% 2/2 [00:00<00:00,  2.66it/s]
+Epoch 21, Losses: {'contrastive': 6.266080856323242, 'adversarial': -0.00039625991485081613, 'similarity': 0.0004958765202900395, 'total': 6.266130447387695}
+Train Epoch 22/50: 100% 2/2 [00:00<00:00,  2.32it/s]
+Epoch 22, Losses: {'contrastive': 6.472524404525757, 'adversarial': -0.0006704950355924666, 'similarity': 0.0006178111507324502, 'total': 6.472586393356323}
+Train Epoch 23/50: 100% 2/2 [00:00<00:00,  2.94it/s]
+Epoch 23, Losses: {'contrastive': 6.473808765411377, 'adversarial': -0.0004961398954037577, 'similarity': 0.0005619705043500289, 'total': 6.473864793777466}
+Train Epoch 24/50: 100% 2/2 [00:00<00:00,  2.86it/s]
+Epoch 24, Losses: {'contrastive': 6.470239877700806, 'adversarial': -0.0004991450405213982, 'similarity': 0.00040199905924964696, 'total': 6.470279932022095}
+Train Epoch 25/50: 100% 2/2 [00:00<00:00,  2.82it/s]
+Epoch 25, Losses: {'contrastive': 6.37553858757019, 'adversarial': -0.0005692897393601015, 'similarity': 0.0004433131980476901, 'total': 6.375582695007324}
+Train Epoch 26/50: 100% 2/2 [00:00<00:00,  2.94it/s]
+Epoch 26, Losses: {'contrastive': 6.546438217163086, 'adversarial': -0.00040930311661213636, 'similarity': 0.0006156926683615893, 'total': 6.546499729156494}
+Train Epoch 27/50: 100% 2/2 [00:00<00:00,  2.75it/s]
+Epoch 27, Losses: {'contrastive': 6.466796398162842, 'adversarial': -0.0007792351534590125, 'similarity': 0.00047030425048433244, 'total': 6.466843366622925}
+Train Epoch 28/50: 100% 2/2 [00:00<00:00,  2.99it/s]
+Epoch 28, Losses: {'contrastive': 6.4730846881866455, 'adversarial': -0.0007571187452413142, 'similarity': 0.0006123739003669471, 'total': 6.473145961761475}
+Train Epoch 29/50: 100% 2/2 [00:00<00:00,  2.44it/s]
+Epoch 29, Losses: {'contrastive': 6.576460838317871, 'adversarial': -0.0006349784671328962, 'similarity': 0.0006770355103071779, 'total': 6.576528549194336}
+Train Epoch 30/50: 100% 2/2 [00:00<00:00,  2.40it/s]
+Epoch 30, Losses: {'contrastive': 6.563802003860474, 'adversarial': -0.0005237911245785654, 'similarity': 0.0005407754215411842, 'total': 6.56385612487793}
+Train Epoch 31/50: 100% 2/2 [00:00<00:00,  2.72it/s]
+Epoch 31, Losses: {'contrastive': 6.5614013671875, 'adversarial': -0.0006235541659407318, 'similarity': 0.0005982800503261387, 'total': 6.5614612102508545}
+Train Epoch 32/50: 100% 2/2 [00:01<00:00,  1.89it/s]
+Epoch 32, Losses: {'contrastive': 6.673521995544434, 'adversarial': -0.00043783392175100744, 'similarity': 0.0006620254134759307, 'total': 6.673588037490845}
+Train Epoch 33/50: 100% 2/2 [00:00<00:00,  2.03it/s]
+Epoch 33, Losses: {'contrastive': 6.59643816947937, 'adversarial': -0.0005107546166982502, 'similarity': 0.0004952950548613444, 'total': 6.596487522125244}
+Train Epoch 34/50: 100% 2/2 [00:01<00:00,  1.73it/s]
+Epoch 34, Losses: {'contrastive': 6.740718841552734, 'adversarial': -0.0004350177332526073, 'similarity': 0.00047152533079497516, 'total': 6.7407660484313965}
+Train Epoch 35/50: 100% 2/2 [00:01<00:00,  1.98it/s]
+Epoch 35, Losses: {'contrastive': 6.762220621109009, 'adversarial': -0.0006923571927472949, 'similarity': 0.0007553916948381811, 'total': 6.762296199798584}
+Train Epoch 36/50: 100% 2/2 [00:00<00:00,  2.54it/s]
+Epoch 36, Losses: {'contrastive': 6.734164714813232, 'adversarial': -0.0006315852806437761, 'similarity': 0.0005142242298461497, 'total': 6.734216213226318}
+Train Epoch 37/50: 100% 2/2 [00:00<00:00,  3.30it/s]
+Epoch 37, Losses: {'contrastive': 6.68658709526062, 'adversarial': -0.000737095600925386, 'similarity': 0.0006101676262915134, 'total': 6.68664813041687}
+Train Epoch 38/50: 100% 2/2 [00:00<00:00,  2.62it/s]
+Epoch 38, Losses: {'contrastive': 6.756820440292358, 'adversarial': -0.0004523575335042551, 'similarity': 0.00069284753408283, 'total': 6.756889581680298}
+Train Epoch 39/50: 100% 2/2 [00:00<00:00,  3.19it/s]
+Epoch 39, Losses: {'contrastive': 6.851491689682007, 'adversarial': -0.0005307789251673967, 'similarity': 0.0005958049441687763, 'total': 6.851551294326782}
+Train Epoch 40/50: 100% 2/2 [00:00<00:00,  3.15it/s]
+Epoch 40, Losses: {'contrastive': 6.792643308639526, 'adversarial': -0.00040200608782470226, 'similarity': 0.0005315738671924919, 'total': 6.792696475982666}
+Train Epoch 41/50: 100% 2/2 [00:00<00:00,  3.07it/s]
+Epoch 41, Losses: {'contrastive': 6.751417636871338, 'adversarial': -0.0005932139174547046, 'similarity': 0.0006041136366548017, 'total': 6.75147819519043}
+Train Epoch 42/50: 100% 2/2 [00:00<00:00,  2.97it/s]
+Epoch 42, Losses: {'contrastive': 6.801260709762573, 'adversarial': -0.0007517468184232712, 'similarity': 0.0007276764954440296, 'total': 6.801333665847778}
+Train Epoch 43/50: 100% 2/2 [00:00<00:00,  2.85it/s]
+Epoch 43, Losses: {'contrastive': 6.868967771530151, 'adversarial': -0.0005503586144186556, 'similarity': 0.0008131911163218319, 'total': 6.869049072265625}
+Train Epoch 44/50: 100% 2/2 [00:00<00:00,  3.01it/s]
+Epoch 44, Losses: {'contrastive': 6.716947555541992, 'adversarial': -0.0005929821054451168, 'similarity': 0.0006330613978207111, 'total': 6.717010736465454}
+Train Epoch 45/50: 100% 2/2 [00:00<00:00,  2.90it/s]
+Epoch 45, Losses: {'contrastive': 6.878232717514038, 'adversarial': -0.0006809722981415689, 'similarity': 0.0007030421984381974, 'total': 6.878303050994873}
+Train Epoch 46/50: 100% 2/2 [00:00<00:00,  3.05it/s]
+Epoch 46, Losses: {'contrastive': 6.778764009475708, 'adversarial': -0.00043018924770876765, 'similarity': 0.0006687350978609174, 'total': 6.7788307666778564}
+Train Epoch 47/50: 100% 2/2 [00:00<00:00,  2.97it/s]
+Epoch 47, Losses: {'contrastive': 6.831394910812378, 'adversarial': -0.0005963149014860392, 'similarity': 0.0007268848712556064, 'total': 6.831467628479004}
+Train Epoch 48/50: 100% 2/2 [00:00<00:00,  3.04it/s]
+Epoch 48, Losses: {'contrastive': 6.774056673049927, 'adversarial': -0.0005756204482167959, 'similarity': 0.0007040105119813234, 'total': 6.774127244949341}
+Train Epoch 49/50: 100% 2/2 [00:00<00:00,  3.17it/s]
+Epoch 49, Losses: {'contrastive': 6.84013032913208, 'adversarial': -0.0005153950187377632, 'similarity': 0.0005726060189772397, 'total': 6.8401875495910645}
+Train Epoch 50/50: 100% 2/2 [00:00<00:00,  3.35it/s]
+Epoch 50, Losses: {'contrastive': 6.867956161499023, 'adversarial': -0.0007854179129935801, 'similarity': 0.0006009336502756923, 'total': 6.868016242980957}
+
